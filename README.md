@@ -16,6 +16,12 @@ Untuk Routing, digunakan teknik routing VLSM. VLSM table yang dihasilkan adalah 
 | A4 | 211 | 192.168.0.0 | 255.255.255.0 | 192.168.0.1 - 192.168.0.254 | 192.168.0.255 |
 | A5 | 3 | 192.168.2.0 | 255.255.255.248 | 192.168.2.1 - 192.168.2.6 | 192.168.2.7 |
 
+![alt text](images/B1.png)
+![alt text](images/B2.png)
+![alt text](images/B3.png)
+![alt text](images/B4.png)
+![alt text](images/B5.png)
+
 Setelah ditentukan teknik routing dan tabelnya, selanjutnya adalah melakukan konfigurasi interface di uml2 yang ada sesuai dari tabel diatas, di /etc/network/interfaces:
 
 SIDOARJO
