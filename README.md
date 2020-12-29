@@ -3,7 +3,8 @@
 ## Persiapan
 #### A. Topologi
 Topologi yang akan dibangun untuk soal ini adalah sbb:
-![alt text](images/topologi.png)
+
+![alt text](images/topologi.PNG)
 #### B, C. Routing
 Untuk Routing, digunakan teknik routing VLSM. VLSM table yang dihasilkan adalah sbb:
 
